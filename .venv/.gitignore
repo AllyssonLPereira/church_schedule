@@ -1,0 +1,19 @@
+# Ambiente virtual
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Arquivos de configuração sensíveis
+.env
+
+# Arquivos gerados
+*.log
+*.pyc
+__pycache__/
+*.sqlite3
+
+# Configurações do VSCode
+.vscode/
